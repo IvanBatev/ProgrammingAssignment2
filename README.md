@@ -1,0 +1,2 @@
+# ProgrammingAssignment2
+The big idea behind this assignment is that you'll write a program that displays a random sprite that starts in the center of the window and moves with a random x and y speed. Approximately each second, you'll generate a new random sprite and x and y speeds (the old sprite will go away). The other skill you'll be working on is reading class documentation, since you'll need to find details about the Random class that I haven't provided to you in the video lectures or the book.
